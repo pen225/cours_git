@@ -2,3 +2,10 @@
     text-align: center;
     color: #777;
 }
+.container {
+    width: 500px;
+    text-align: center;
+}
+.description {
+    margin-left: auto;
+}
